@@ -12,7 +12,7 @@ The network architecture of CineMyoPS is shown as follows:
 
 ####  Model Setup
 - download our trained model from [baidu yun](https://pan.baidu.com/s/1ijuQaR0Ix6CE2Nu-TxareA?pwd=jrey)
-- put them into ./outputs/nnunet/output/nnUNet/3d_fullres/Task025_Cine_Seg/TrainerV6WithoutIMG__nnUNetPlansv2.1/all
+- put them into ./models/nnunet/output/nnUNet/3d_fullres/Task025_Cine_Seg/TrainerV6WithoutIMG__nnUNetPlansv2.1/all
 
 #### Usage Instructions
 
