@@ -1,0 +1,1 @@
+../outputs/nnunet/raw/nnUNet_raw_data/test/v6/Case1002_s08.nii.gz~~7
